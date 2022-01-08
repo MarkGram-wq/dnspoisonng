@@ -1,4 +1,4 @@
-# dnspoisonng
+# DNS Poison LIB
 
 Tool lib POC for DNS poisoning attack.
 
